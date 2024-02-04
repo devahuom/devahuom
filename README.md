@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devahuom
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Javascript
-- 💞️ Let's have some fun with Javascript
+- 💞️ So Let's have some fun with Javascript
 
 
 <!---
