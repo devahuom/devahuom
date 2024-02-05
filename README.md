@@ -2,6 +2,8 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Javascript
 - 💞️ So Let's have some fun with Javascript
+- 💯 JE S'APPELLE ________GROOOT_________
+  
 
 
 <!---
